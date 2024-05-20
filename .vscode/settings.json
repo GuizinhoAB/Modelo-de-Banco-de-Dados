@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "previewLimit": 50,
+            "server": "database-ga-14474.7tt.aws-us-east-1.cockroachlabs.cloud",
+            "port": 26257,
+            "askForPassword": true,
+            "driver": "CockroachDB",
+            "name": "database-ga",
+            "database": "defaultdb",
+            "username": "guilherme"
+        }
+    ]
+}
