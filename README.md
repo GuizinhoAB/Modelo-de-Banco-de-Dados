@@ -16,6 +16,7 @@ Este projeto cria um modelo de banco de dados, incluindo entidades essenciais co
 - [Configuração](#configuração)
 - [Uso](#uso)
 - [Integrantes](#integrantes)
+- [Licença](#linceça)
 
 ## Esquema do Banco de Dados
 
@@ -145,3 +146,7 @@ JOIN
 
 - Guilherme de Abreu (Matrícula: 22.222.028-7)
 - Matheus Cucio (Matrícula: 22.121.035-4)
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT)
