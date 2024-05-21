@@ -1,5 +1,8 @@
 # Modelo de Banco de Dados (Projeto Disciplinar)
 
+- Matéria: Banco de Dados
+- Semestre: 5°
+
 ## Visão Geral
 
 Este projeto cria um modelo de banco de dados, incluindo entidades essenciais como alunos, professores, cursos, departamentos, disciplinas e matrizes curriculares. O banco de dados permite a geração e consulta de diversos relatórios, como históricos escolares de alunos, histórico de disciplinas ministradas por professores, lista de formandos, chefes de departamento e grupos de TCC.
@@ -22,7 +25,7 @@ O banco de dados inclui as seguintes tabelas:
 - `professores`: Informações sobre os professores
 - `cursos`: Informações sobre os cursos
 - `departamentos`: Informações sobre os departamentos
-- `chefe de departamento`: Informações sobre os chefes de departamentos
+- `professores_departamentos`: Informações sobre os chefes de departamentos
 - `disciplinas`: Informações sobre as disciplinas
 - `historico_escolar`: Históricos escolares dos alunos
 - `historico_disciplina_professores`: Histórico de disciplinas ministradas pelos professores
@@ -56,7 +59,7 @@ Este projeto utiliza o CockroachDB Cloud como banco de dados, a biblioteca Faker
    Execute o arquivo `criacao_tabelas.py` após realizar a conexão com o banco de dados e definir o `DATABASE_URL`.
 
 2. **Gere os dados aleatórios:**
-   Execute o arquivo `DataGeneratos.py` para popular o banco de dados com dados fictícios.
+   Execute o arquivo `DataGenerator.py` para popular o banco de dados com dados fictícios.
 
 3. **Consultas requeridas do projeto:**
 
