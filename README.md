@@ -16,7 +16,7 @@ Este projeto cria um modelo de banco de dados, incluindo entidades essenciais co
 - [Configuração](#configuração)
 - [Uso](#uso)
 - [Integrantes](#integrantes)
-- [Licença](#linceça)
+- [Licença](#licença)
 
 ## Esquema do Banco de Dados
 
