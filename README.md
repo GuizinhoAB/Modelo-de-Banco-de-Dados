@@ -36,8 +36,8 @@ O banco de dados inclui as seguintes tabelas:
 
 ## Diagrama Relacional
 
-[](\diagrama1.jpeg)
-[](\diagram2.jpeg)
+![](https://github.com/GuizinhoAB/Modelo-de-Banco-de-Dados/blob/main/diagrama1.jpeg)
+![](https://github.com/GuizinhoAB/Modelo-de-Banco-de-Dados/blob/main/diagrama2.jpeg)
 ## Funcionalidades
 
 - Inserir alunos, professores, cursos, departamentos e disciplinas no banco de dados.
